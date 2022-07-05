@@ -227,8 +227,8 @@
  <section class="flex-container column center">
  <img src="logo.png"width="175" height="51" class="logo">
   <div class="textarea">
- <input class="item2" type="Telefone" type="email" type="name"class="whith-css" placeholder="Telefone, nome de usu�rio ou email" 
-  id="Telefone, nome de usu�rio ou email">
+ <input class="item2" type="Telefone" type="email" type="name"class="whith-css" placeholder="Telefone, nome de usuário ou email" 
+  id="Telefone, nome de usuário ou email">
   </div>
   <div>
  <input class="item6" type="password" placeholder ="Senha" id="Senha" required>
@@ -247,7 +247,7 @@
   </section>
 
   <div class="container column center">
-   <div class="item4">N�o tem uma conta? <a href="https://www.instagram.com/accounts/emailsignup/" style="text-decoration:none"><span style="margin-left:4px " class="cor3">
+   <div class="item4">Não tem uma conta? <a href="https://www.instagram.com/accounts/emailsignup/" style="text-decoration:none"><span style="margin-left:4px " class="cor3">
      Cadastre-se</span></a>
   </div>
 
@@ -275,23 +275,23 @@ class="item9" style="font-size:medium;">Obtenha o aplicativo.
 <a href="https://help.instagram.com/581066165581870" style="text-decoration:none"><span style="margin-left:10px" class="cor4">Termos</span></a>
 <a href="https://www.instagram.com/directory/profiles/" style="text-decoration:none"><span style="margin-left:10px" class="cor4">Principais contas</span></a>
 <a href="https://www.instagram.com/directory/hashtags/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Hashtags</span></a>
-<a href="https://www.instagram.com/explore/locations/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Localiza��es</span></a>
+<a href="https://www.instagram.com/explore/locations/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Localizações</span></a>
 </div>
 <div class="item14">
 <a href="https://www.instagram.com/web/lite/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Instagram Lite</span></a>
-<a href="https://www.facebook.com/help/instagram/261704639352628"style="text-decoration:none"><span style="margin-left:10px"class="cor4">Carregamento de contatos e n�o usu�rios</span></a>
+<a href="https://www.facebook.com/help/instagram/261704639352628"style="text-decoration:none"><span style="margin-left:10px"class="cor4">Carregamento de contatos e não usuários</span></a>
 </div>
 
 <div class="item11">
-<a href="https://www.instagram.com/topics/dance-and-performance/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Dan�a</span></a>
+<a href="https://www.instagram.com/topics/dance-and-performance/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Dança</span></a>
 <a href="https://www.instagram.com/topics/food-and-drink/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Comida e bebida</span></a>
 <a href="https://www.instagram.com/topics/home-and-garden/"style="text-decoration:none"><span style="margin-left:10px"class="cor4">Casa e jardim</span></a>
-<a href="https://www.instagram.com/topics/music/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">M�sica</span></a>
+<a href="https://www.instagram.com/topics/music/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Música</span></a>
 <a href="https://www.instagram.com/topics/visual-arts/" style="text-decoration:none"><span style="margin-left:10px"class="cor4">Artes visuais</span></a>
 </div>
 <div class="item12">
-<span style="margin-left: 10px">Portugu�s (Brasil)</span>
-<span style="margin-left: 30px">� 2022 Instagram from Meta</span>
+<span style="margin-left: 10px">Português (Brasil)</span>
+<span style="margin-left: 30px">@ 2022 Instagram from Meta</span>
 </div>
   </section>
 </div>
